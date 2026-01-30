@@ -4,7 +4,7 @@ Blanco,30.26636128,-98.39974086,5.555555555555555,wmoUnit:degC,57,0,16093.44,wmo
 Hockley,33.60750375,-102.3430919,3.3333333333333335,wmoUnit:degC,62,0,16093.44,wmoUnit:m,,,,,,
 Llano,30.70566579,-98.68387398,6.111111111111111,wmoUnit:degC,52,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T10:00:00-06:00
 Swisher,34.53064989,-101.734951,3.3333333333333335,wmoUnit:degC,57,0,16093.44,wmoUnit:m,,,,,,
-Titus,33.2160906,-94.96509786,1.6666666666666667,wmoUnit:degC,78,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Titus,33.2160906,-94.96509786,2.2222222222222223,wmoUnit:degC,67,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Navarro,32.04695429,-96.47248134,2.2222222222222223,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Brazoria,29.19345387,-95.45578479,6.666666666666667,wmoUnit:degC,62,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T07:15:00-06:00
 Hidalgo,26.396627,-98.18088681,12.777777777777779,wmoUnit:degC,42,0,,,,,Freeze Watch,Severe,Future,2026-01-30T18:15:00-06:00
@@ -24,7 +24,7 @@ Burleson,30.49246139,-96.62109399,3.888888888888889,wmoUnit:degC,64,0,16093.44,w
 Jim Hogg,27.04340499,-98.6972921,11.666666666666666,wmoUnit:degC,40,1,,,FZ,A,Freeze Watch,Severe,Future,2026-01-30T18:15:00-06:00
 Throckmorton,33.17753907,-99.21236832,0.5555555555555556,wmoUnit:degC,82,0,16093.44,wmoUnit:m,,,,,,
 Kleberg,27.43274395,-97.72889778,9.444444444444445,wmoUnit:degC,50,1,16093.44,wmoUnit:m,FZ,A,Freeze Watch,Severe,Future,2026-01-31T00:00:00-06:00
-Shelby,31.79242191,-94.14495261,2.7777777777777777,wmoUnit:degC,82,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Shelby,31.79242191,-94.14495261,3.888888888888889,wmoUnit:degC,70,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Garza,33.17991074,-101.2984496,5.0,wmoUnit:degC,57,0,16093.44,wmoUnit:m,,,,,,
 Karnes,28.90493782,-97.85960621,9.444444444444445,wmoUnit:degC,44,1,16093.44,wmoUnit:m,,,Cold Weather Advisory,Moderate,Expected,2026-01-31T10:00:00-06:00
 Reeves,31.32307061,-103.693143,5.0,wmoUnit:degC,57,0,16093.44,wmoUnit:m,,,,,,
@@ -45,7 +45,7 @@ Crosby,33.61459873,-101.2998612,4.444444444444445,wmoUnit:degC,59,0,16093.44,wmo
 Kerr,30.06153035,-99.35016969,6.111111111111111,wmoUnit:degC,54,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T10:00:00-06:00
 Wood,32.78634374,-95.38206498,2.7777777777777777,wmoUnit:degC,61,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Jack,33.23345819,-98.1725509,-1.1111111111111112,wmoUnit:degC,88,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
-Marion,32.79797929,-94.35725239,3.3333333333333335,wmoUnit:degC,82,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Marion,32.79797929,-94.35725239,3.888888888888889,wmoUnit:degC,70,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Hale,34.07051782,-101.8269082,2.2222222222222223,wmoUnit:degC,64,0,16093.44,wmoUnit:m,,,,,,
 Jeff Davis,30.71559322,-104.1403539,5.555555555555555,wmoUnit:degC,36,0,16093.44,wmoUnit:m,,,,,,
 Tarrant,32.77185236,-97.29116473,1.1111111111111112,wmoUnit:degC,78,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
@@ -69,7 +69,7 @@ Rockwall,32.89786769,-96.40780584,1.6666666666666667,wmoUnit:degC,72,0,16093.44,
 Trinity,31.0885069,-95.13551682,5.0,wmoUnit:degC,65,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T07:15:00-06:00
 Bosque,31.90050476,-97.63437613,2.7777777777777777,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Coke,31.88849293,-100.5298747,5.0,wmoUnit:degC,62,0,16093.44,wmoUnit:m,,,,,,
-Franklin,33.17550691,-95.21841437,1.6666666666666667,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Franklin,33.17550691,-95.21841437,2.2222222222222223,wmoUnit:degC,64,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Hill,31.99079033,-97.1324142,2.2222222222222223,wmoUnit:degC,79,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Calhoun,28.48966896,-96.64708119,7.777777777777778,wmoUnit:degC,65,0,16093.44,wmoUnit:m,,,Freeze Watch,Severe,Future,2026-01-31T00:00:00-06:00
 Irion,31.30393203,-100.9824126,5.0,wmoUnit:degC,57,0,16093.44,wmoUnit:m,,,,,,
@@ -78,11 +78,11 @@ Brown,31.77432313,-98.99989649,3.888888888888889,wmoUnit:degC,64,0,16093.44,wmoU
 Wilson,29.17315896,-98.08621015,9.444444444444445,wmoUnit:degC,46,1,16093.44,wmoUnit:m,,,Cold Weather Advisory,Moderate,Expected,2026-01-31T10:00:00-06:00
 Oldham,35.40497586,-102.6029949,3.888888888888889,wmoUnit:degC,42,0,16093.44,wmoUnit:m,,,,,,
 Freestone,31.70486443,-96.14918535,2.2222222222222223,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
-Sabine,31.34321941,-93.85170439,5.0,wmoUnit:degC,79,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Sabine,31.34321941,-93.85170439,5.555555555555555,wmoUnit:degC,70,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Deaf Smith,34.96602014,-102.6048162,4.444444444444445,wmoUnit:degC,42,0,16093.44,wmoUnit:m,,,,,,
-Angelina,31.25475875,-94.611742,5.0,wmoUnit:degC,76,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Angelina,31.25475875,-94.611742,5.555555555555555,wmoUnit:degC,67,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Kent,33.18284492,-100.7791031,5.0,wmoUnit:degC,57,0,16093.44,wmoUnit:m,,,,,,
-Red River,33.62074539,-95.0501886,1.6666666666666667,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Red River,33.62074539,-95.0501886,1.6666666666666667,wmoUnit:degC,66,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Kinney,29.35000302,-100.4178441,10.555555555555555,wmoUnit:degC,38,0,16093.44,wmoUnit:m,,,,,,
 Denton,33.205574,-97.11681154,0.0,wmoUnit:degC,78,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Sutton,30.49747152,-100.5382263,6.111111111111111,wmoUnit:degC,51,0,16093.44,wmoUnit:m,,,,,,
@@ -111,7 +111,7 @@ Delta,33.38623601,-95.67221685,1.6666666666666667,wmoUnit:degC,72,0,16093.44,wmo
 Nueces,27.72621549,-97.61767326,9.444444444444445,wmoUnit:degC,52,1,16093.44,wmoUnit:m,FZ,A,Freeze Watch,Severe,Future,2026-01-31T00:00:00-06:00
 Callahan,32.2977738,-99.37359692,3.888888888888889,wmoUnit:degC,64,0,16093.44,wmoUnit:m,,,,,,
 Bell,31.03778267,-97.47790776,4.444444444444445,wmoUnit:degC,70,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
-Cherokee,31.83695632,-95.16515234,2.7777777777777777,wmoUnit:degC,79,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Cherokee,31.83695632,-95.16515234,2.2222222222222223,wmoUnit:degC,78,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Ellis,32.34839264,-96.79467417,2.2222222222222223,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Lubbock,33.6101944,-101.8205745,3.888888888888889,wmoUnit:degC,54,0,16093.44,wmoUnit:m,,,,,,
 Terrell,30.22502597,-102.0764533,8.88888888888889,wmoUnit:degC,40,0,16093.44,wmoUnit:m,,,,,,
@@ -123,7 +123,7 @@ Aransas,28.12709562,-96.99258951,7.777777777777778,wmoUnit:degC,65,1,16093.44,wm
 Dallas,32.76653746,-96.77781862,1.6666666666666667,wmoUnit:degC,78,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Howard,32.30610232,-101.4355097,5.0,wmoUnit:degC,62,0,16093.44,wmoUnit:m,,,,,,
 Motley,34.07409017,-100.7798961,6.666666666666667,wmoUnit:degC,45,0,16093.44,wmoUnit:m,,,,,,
-San Augustine,31.39427005,-94.16809762,3.888888888888889,wmoUnit:degC,82,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+San Augustine,31.39427005,-94.16809762,5.0,wmoUnit:degC,67,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Maverick,28.74260943,-100.3144638,12.222222222222221,wmoUnit:degC,36,2,16093.44,wmoUnit:m,,,,,,
 Erath,32.23640361,-98.21722756,2.2222222222222223,wmoUnit:degC,72,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
 Dickens,33.61663428,-100.7788138,7.222222222222222,wmoUnit:degC,45,0,16093.44,wmoUnit:m,,,,,,
@@ -167,7 +167,7 @@ Grayson,33.62684371,-96.67764864,-1.1111111111111112,wmoUnit:degC,85,0,16093.44,
 Bailey,34.0684915,-102.8299069,2.2222222222222223,wmoUnit:degC,61,0,16093.44,wmoUnit:m,,,,,,
 Jones,32.73970429,-99.87850599,0.5555555555555556,wmoUnit:degC,82,0,16093.44,wmoUnit:m,,,,,,
 Jefferson,29.88425832,-94.1708778,6.111111111111111,wmoUnit:degC,79,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:00:00-06:00
-Rusk,32.10803224,-94.76169577,2.7777777777777777,wmoUnit:degC,82,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Rusk,32.10803224,-94.76169577,3.3333333333333335,wmoUnit:degC,73,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Glasscock,31.8694238,-101.520742,5.0,wmoUnit:degC,65,0,16093.44,wmoUnit:m,,,,,,
 Gillespie,30.31800246,-98.94627245,5.0,wmoUnit:degC,57,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T10:00:00-06:00
 Fisher,32.74305155,-100.4019503,2.7777777777777777,wmoUnit:degC,79,0,16093.44,wmoUnit:m,,,,,,
@@ -205,7 +205,7 @@ Kenedy,26.92409448,-97.68137783,11.11111111111111,wmoUnit:degC,52,1,,,FZ,A,Freez
 Fort Bend,29.52763253,-95.77090562,6.666666666666667,wmoUnit:degC,60,1,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T07:15:00-06:00
 Armstrong,34.96522076,-101.3572412,4.444444444444445,wmoUnit:degC,48,0,16093.44,wmoUnit:m,,,,,,
 Collingsworth,34.96498493,-100.2700733,3.888888888888889,wmoUnit:degC,54,0,16093.44,wmoUnit:m,,,,,,
-Cass,33.07750446,-94.34348771,2.2222222222222223,wmoUnit:degC,85,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Cass,33.07750446,-94.34348771,3.3333333333333335,wmoUnit:degC,67,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Sherman,36.27765824,-101.8933822,3.888888888888889,wmoUnit:degC,44,0,16093.44,wmoUnit:m,,,,,,
 Terry,33.17373729,-102.335157,3.888888888888889,wmoUnit:degC,62,0,16093.44,wmoUnit:m,,,,,,
 Limestone,31.54541898,-96.58056718,2.2222222222222223,wmoUnit:degC,75,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T12:00:00-06:00
@@ -239,7 +239,7 @@ King,33.61641863,-100.2558584,3.888888888888889,wmoUnit:degC,67,0,16093.44,wmoUn
 Washington,30.2145299,-96.40356575,4.444444444444445,wmoUnit:degC,67,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T07:15:00-06:00
 Webb,27.76102524,-99.33170164,11.11111111111111,wmoUnit:degC,41,3,16093.44,wmoUnit:m,FZ,A,Freeze Watch,Severe,Future,2026-01-31T00:00:00-06:00
 Fayette,29.87683207,-96.91968047,6.666666666666667,wmoUnit:degC,55,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T10:00:00-06:00
-Harrison,32.54814898,-94.37155736,2.7777777777777777,wmoUnit:degC,82,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
+Harrison,32.54814898,-94.37155736,3.888888888888889,wmoUnit:degC,67,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-31T01:15:00-06:00
 Presidio,29.99977786,-104.2405552,6.666666666666667,wmoUnit:degC,35,0,16093.44,wmoUnit:m,,,,,,
 Austin,29.88711223,-96.27791829,5.0,wmoUnit:degC,65,0,16093.44,wmoUnit:m,CW,Y,Cold Weather Advisory,Moderate,Expected,2026-01-30T07:15:00-06:00
 Randall,34.96594288,-101.8968527,3.888888888888889,wmoUnit:degC,50,0,16093.44,wmoUnit:m,,,,,,
